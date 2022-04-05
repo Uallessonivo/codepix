@@ -1,4 +1,4 @@
-# Full Cycle Project - Golang | NestJs | NextJs
+# Full Cycle Project - Golang | NestJs | NextJs | gRPC
 
 ## CODEPIX
 

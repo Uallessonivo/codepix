@@ -17,3 +17,7 @@
 
 # Folder
 .pgdata
+
+# Envs
+.env
+.env.local
