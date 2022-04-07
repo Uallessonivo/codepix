@@ -1,13 +1,10 @@
-# Full Cycle Project - Golang | NestJs | NextJs | gRPC
+# CODEPIX Project
 
-## CODEPIX
+## Golang | Apache Kafka | gRPC | Postgres | Docker
 
-
-#### Stack
+### Stack
 
 ```
-- NextJS
-- NestJS
 - Golang
 - Docker
 - Apache Kafka
